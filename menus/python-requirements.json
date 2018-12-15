@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle python-requirements",
+        "command": "python-requirements:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "python-requirements",
+          "submenu": [
+            {
+              "label": "Run",
+              "command": "python-requirements:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

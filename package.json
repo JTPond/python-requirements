@@ -1,0 +1,18 @@
+{
+  "name": "python-requirements",
+  "main": "./lib/python-requirements",
+  "version": "0.0.1",
+  "description": "Find all imports in a python project and produce a requirements.txt",
+  "keywords": ["python", "search", "imports", "requirements"
+  ],
+  "activationCommands": {
+    "atom-workspace": "python-requirements:toggle"
+  },
+  "repository": "https://github.com/atom/python-requirements",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
