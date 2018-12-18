@@ -1,7 +1,7 @@
 {
   "name": "python-requirements",
   "main": "./lib/python-requirements",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Find all imports in a python project and produce a requirements.txt",
   "keywords": [
     "python",
