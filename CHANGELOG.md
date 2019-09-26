@@ -7,4 +7,9 @@
 * Removes duplicates from final list
 
 ## 0.2.1 - Bug fix
-* Updated changelog 
+* Updated changelog
+
+## 1.0.0 - Major Update
+* Add feature to not inlude internal, or standard packages
+* Add feature to overwrite an existing requirements.txt
+* Better code organization
